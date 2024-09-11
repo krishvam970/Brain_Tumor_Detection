@@ -1,4 +1,4 @@
-# brain tumor detection using python and sklearn
+# Brain Tumor Detection using Python and Sklearn
 
 
 
