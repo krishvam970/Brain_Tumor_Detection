@@ -106,9 +106,6 @@
 <p>Finally, it is the time to examine the results.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:gallery {"ids":[46,47],"linkTo":"none"} -->
-<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://cwadtech.files.wordpress.com/2021/07/img-11.png?w=680" alt="" data-id="46" data-link="https://cwadtech.wordpress.com/img-11/" class="wp-image-46"/></figure></li><li class="blocks-gallery-item"><figure><img src="https://cwadtech.files.wordpress.com/2021/07/img-12.png?w=655" alt="" data-id="47" data-full-url="https://cwadtech.files.wordpress.com/2021/07/img-12.png" data-link="https://cwadtech.wordpress.com/img-12/" class="wp-image-47"/></figure></li></ul></figure>
-<!-- /wp:gallery -->
 
 <!-- wp:heading {"level":4} -->
 <h4>OUTPUT</h4>
